@@ -1,0 +1,8 @@
+.unorderedList {
+    border: none;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 20px;
+    box-shadow: 0px 0px 4px 0px #BFBFBF;
+    background-color: white;
+}
